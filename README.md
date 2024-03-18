@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Contributions:
+
+<img src="https://raw.githubusercontent.com/lisandroprieri/LisandroPrieri/output/snake.svg" alt="Snake Animation" />
