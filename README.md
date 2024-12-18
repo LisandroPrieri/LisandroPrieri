@@ -13,6 +13,7 @@ I’m currently learning C language, and working on a project called Minishell.
 [![Pipex](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/pipexn.png)](https://github.com/lprieri-Codam/2-pipex)
 [![Push Swap](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/push_swapn.png)](https://github.com/lprieri-Codam/2-push_swap)
 [![So Long](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/so_longn.png)](https://github.com/lprieri-Codam/2-so_long)
+[![Philosophers](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/philosophersn.png)](https://github.com/lprieri-Codam/3-philosophers)
 
 
 <!--
