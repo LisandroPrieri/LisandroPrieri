@@ -3,7 +3,7 @@ My name is Lisandro.
 
 I'm a student at Codam Coding College, located in Amsterdam.
 
-I’m currently learning C language, and working on a project called Minishell.
+I’m currently learning C language, and working on a project called Cub3d.
 
 ## My Codam Projects:
 
@@ -24,17 +24,7 @@ Here are some ideas to get you started:
 [![Born2BeRoot](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/born2berootn.png)](https://github.com/lprieri-Codam/1-Born2beroot)
 [![FDF](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/fdfn.png)](https://github.com/lprieri-Codam/2-fdf)
 [![Minishell](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/minishelln.png)](https://github.com/lprieri-Codam/3-minishell)
-[![Philosophers](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/philosophersn.png)](https://github.com/lprieri-Codam/3-philosophers)
 [![](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/ft_printfn.png)]()
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ## My Contributions:
 
