@@ -8,7 +8,7 @@ I’m currently learning C language, and working on a project called Cub3d.
 ## My Codam Projects:
 
 [![Libft](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/libftn.png)](https://github.com/lprieri-Codam/0-libft)
-[![GNL](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/get_next_linen.png)](https://github.com/lprieri-Codam/1-get_next_line)
+[![GNL](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/get_next_linen.png)](https://github.com/LisandroPrieri/get_next_line)
 [![Printf](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/ft_printfn.png)](https://github.com/LisandroPrieri/ft_printf)
 [![Pipex](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/pipexn.png)](https://github.com/lprieri-Codam/2-pipex)
 [![Push Swap](https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/push_swapn.png)](https://github.com/lprieri-Codam/2-push_swap)
