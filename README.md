@@ -3,7 +3,7 @@ My name is Lisandro.
 
 I'm a student at Codam Coding College, located in Amsterdam.
 
-I’m currently learning C language, and working on a project called Cub3d.
+I’m currently learning C and C++ languages, and working on a project called miniRT, my very first ray tracer.
 
 ## My Codam Projects:
 
