@@ -1,9 +1,9 @@
 ### Hi there :wave:
 My name is Lisandro.
 
-I'm a student at Codam Coding College, located in Amsterdam.
+I'm a software engineering student at Codam Coding College.
 
-I’m currently learning C and C++ languages, and working on a project called miniRT, my very first ray tracer.
+I’m currently learning the C and C++ languages, and I'm working on a project called miniRT, my very first ray tracer.
 
 ## My Codam Projects:
 
