@@ -2,7 +2,7 @@
 
 I'm a software engineering student, currently studying at Codam Coding College.
 
-🌀 **Current Project: miniRT**  
+🌀 **My latest project: miniRT**  
 A ray tracer written in C that renders 3D scenes using basic geometry and lighting. It implements ray casting, intersection detection, normal calculations, and Phong shading — all built from scratch.
 
 ## You can take a look at my Codam projects below:
@@ -23,12 +23,18 @@ A ray tracer written in C that renders 3D scenes using basic geometry and lighti
   <a href="https://github.com/minishelling/minishell"><img src="https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/minishelln.png" width="100" /></a>
   <a href="https://github.com/lprieri-Codam/3-philosophers"><img src="https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/philosophersn.png" width="100" /></a>
 </p>
+<p float="left">
+  <a href="https://github.com/Ray-Minder/miniRT"><img src="https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/minirtn.png" width="100" /></a>
+</p>
 
+
+
+
+<!--
 
 ## My Contributions:
 
 <img src="https://raw.githubusercontent.com/lisandroprieri/LisandroPrieri/output/snake.svg" alt="Snake Animation" />
 
-<!--
 **LisandroPrieri/LisandroPrieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
