@@ -1,8 +1,8 @@
-### Welcome to my Github!
+# Welcome to my Github!
 
 I'm a software engineering student, currently studying at Codam Coding College.
 
-🌀 **My latest project: miniRT**  
+## 🌀 **My latest project: miniRT**  
 A ray tracer written in C that renders 3D scenes using basic geometry and lighting. It implements ray casting, intersection detection, normal calculations, and Phong shading — all built from scratch.
 
 ## You can take a look at my Codam projects below:
