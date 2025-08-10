@@ -20,7 +20,7 @@ A ray tracer written in C that renders 3D scenes using basic geometry and lighti
 </p>
 
 <p float="left">
-  <a href="https://github.com/minishelling/minishell"><img src="https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/minishelln.png" width="150" /></a>
+  <a href="https://github.com/LisandroPrieri/minishell"><img src="https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/minishelln.png" width="150" /></a>
   <a href="https://github.com/lprieri-Codam/3-philosophers"><img src="https://github.com/LisandroPrieri/LisandroPrieri/blob/main/Badges/philosophersn.png" width="150" /></a>
 </p>
 <p float="left">
