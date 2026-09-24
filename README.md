@@ -1,5 +1,5 @@
 # Welcome to my Github!
-I'm a software engineering in training, currently finishing my studies at Codam Coding College.
+I'm a software engineer in training, currently finishing my studies at Codam Coding College.
 ## **My latest project: Webserv**  
 An HTTP/1.1 web server written in C++ from scratch.
 It handles multiple clients concurrently through an epoll-based event loop, supports virtual hosting, serves static files, and runs CGI scripts, all configured through an NGINX-style config file with its own lexer, parser and validator.
